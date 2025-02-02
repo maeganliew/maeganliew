@@ -1,4 +1,5 @@
-# Hello! I am Jia Wei!
+# Hello, I am Jia Wei!
+I am<br>
 💫 currently working on software development projects<br>
 🎯 studying Computer Science at Nanyang Technology University, Singapore<br>
 📝 currently learning React and Next.js
