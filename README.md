@@ -1,5 +1,7 @@
 # 💫 About Me:
-💫 working on software development projects<br><br>🎯 studying Computer Science at Nanyang Technology University, Singapore<br><br>📝 currently learning React and Next.js, and MongoDB
+💫 working on software development projects<br>
+🎯 studying Computer Science at Nanyang Technology University, Singapore<br>
+📝 currently learning React and Next.js, and MongoDB
 
 
 ## 🌐 Socials:
