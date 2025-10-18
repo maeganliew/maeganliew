@@ -1,9 +1,7 @@
 # 💫 About Me:
-💫 Computer Science undergrad at Nanyang Technological University, Singapore
-
-🎯 Building full-stack and backend projects with Node.js, TypeScript, and MongoDB
-
-📝 Currently learning React, Next.js, and exploring system design & CI/CD
+💫 Computer Science undergrad at Nanyang Technological University, Singapore<br>
+🎯 Building full-stack and backend projects with Node.js, TypeScript, and MongoDB<br>
+📝 Currently learning React, Next.js, and exploring system design & CI/CD<br>
 
 
 
