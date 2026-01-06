@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 About Me
 
-🌱 NTU Computer Science undergraduate
-💻 Backend-leaning full-stack developer
-🕵🏻‍♀️ Currently deepening knowledge in system design and scalable backend architectures
+🌱 NTU Computer Science undergraduate<br/>
+💻 Backend-leaning full-stack developer<br/>
+🕵🏻‍♀️ Currently deepening knowledge in system design and scalable backend architectures<br/>
 🔗 Portfolio: https://portfolio-24go.vercel.app/
 
 
