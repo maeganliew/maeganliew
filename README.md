@@ -3,7 +3,7 @@
 🌱 NTU Computer Science undergraduate<br/>
 💻 Backend-leaning full-stack developer<br/>
 🕵🏻‍♀️ Currently deepening knowledge in system design and scalable backend architectures<br/>
-🔗 Portfolio: https://portfolio-24go.vercel.app/
+🔗 Portfolio Website: https://portfolio-24go.vercel.app/
 
 
 ## 🌐 Socials:
