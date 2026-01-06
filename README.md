@@ -1,11 +1,9 @@
 # 💫 About Me:
 
-📘 Computer Science undergraduate at Nanyang Technological University (NTU), Singapore  
-💻 Backend-leaning full-stack developer with hands-on experience building production-grade services in Java and TypeScript  
-🚀 Experienced in designing RESTful APIs, working with databases and optimizing performance through caching and async processing  
-🔍 Strong focus on code quality, automated testing, and CI/CD pipelines from real-world internship and project experience  
-🌱 Currently deepening knowledge in system design and scalable backend architectures
-
+🌱 NTU Computer Science undergraduate
+💻 Backend-leaning full-stack developer
+🕵🏻‍♀️ Currently deepening knowledge in system design and scalable backend architectures
+🔗 Portfolio: https://portfolio-24go.vercel.app/
 
 
 ## 🌐 Socials:
